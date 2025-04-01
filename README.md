@@ -18,6 +18,7 @@ https://github.com/LIJI32/SameSuite<br>
 https://github.com/alyosha-tas/gba-tests<br>
 https://github.com/zaydlang/AGBEEG-Aging-Cartridge<br>
 https://github.com/mgba-emu/suite<br>
+https://github.com/nba-emu/hw-test<br>
 https://github.com/PeterLemon/GBA<br>
 https://github.com/PeterLemon/SNES<br>
 https://github.com/gilyon/snes-tests<br>
