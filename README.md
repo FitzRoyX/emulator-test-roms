@@ -8,7 +8,7 @@ This repo is a collection of emulator test roms that have been denested and rena
 --if a test rom is only supposed to pass on gbc or wsc variant, change extension to that<br>
 --mark with (!) if failing in ares<br>
 <br>
-Tests that are not pass/fail but require manual comparison to a real system are left out for now. If an author had a license, it is included here.<br>
+This repo only includes pass/fail tests for now. It does not include tests that require manual comparison to a real system. If an author had a license, it is included here.<br>
 <br>
 Repos<br>
 https://github.com/Gekkio/mooneye-test-suite<br>
