@@ -1,4 +1,4 @@
-This repo is a collection of emulator test roms that have been denested and renamed to the following standard:<br>
+This repo is a collection of emulator pass/fail test roms. It does not include tests that require manual comparison to a real system, nor does it try to include old versions of tests. The roms have also been denested and renamed to the following standard:<br>
 <br>
 --filename = repo filepath<br>
 --start with the author's name<br>
@@ -8,7 +8,7 @@ This repo is a collection of emulator test roms that have been denested and rena
 --if a test rom is only supposed to pass on gbc or wsc variant, change extension to that<br>
 --mark with (!) if failing in ares<br>
 <br>
-This repo only includes pass/fail tests for now. It does not include tests that require manual comparison to a real system, nor does it try to include old versions of tests. If an author had a license, it is included here.<br>
+If an author had a license, it is included here.<br>
 <br>
 Repos<br>
 https://github.com/Gekkio/mooneye-test-suite<br>
